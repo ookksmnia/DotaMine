@@ -55,7 +55,7 @@ lang:
   shadowOverCDMessage: '&eShadow Blade &6ja pode ser usada.'
   shadowOverMessage: '&cVoce esta visivel agora.'
   shadowUseMessage: '&6Voce usou &eShadow Blade&6. Agora so podera ser usada em 45 seg.'
-  rankingTitle: '&eName &6|&e Wins &6|&e Loses &6|&e Kills &6|&e Deaths'
+  rankingTitle: '&eNome &6|&e Venceu &6|&e Perdeu &6|&e Matou &6|&e Morreu'
   rankingEntry: '&e%name &6|&e %wins &6|&e %loses &6|&e %kills &6|&e %deaths'
   killstreak:
     one: '%name &6matou %dead &6por &e%money'
@@ -68,7 +68,7 @@ lang:
     eight: '%name &6matou %dead &6por &e%money &6- &4MONSTER KILL'
     nine: '%name &6matou %dead &6por &e%money &6- &4GOD LIKE'
     tenAndBeyond: '%name &6matou %dead &6por &e%money &6- &4BEYOND GOD LIKE'
-    fiftyAndBeyond: '%name &6matou %dead &6por &e%money &6- &4KILLING DOMINATING
+    fiftyAndBeyond: '%name &6matou %dead &6por &e%money &6- &4Matando DOMINADO
       MEGA UNSTOPPABLE WICKED MONSTER BEYOND GODLIKE'
 DoNotChangeThis:
   ConfigVersion: 1
